@@ -2,4 +2,4 @@
 
 Simple code to creae a API Rest with Rust
 
-[Reference:] (https://dev.to/francescoxx/rust-crud-rest-api-3n45)
+Reference: https://dev.to/francescoxx/rust-crud-rest-api-3n45
